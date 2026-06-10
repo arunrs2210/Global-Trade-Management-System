@@ -1,11 +1,11 @@
-# SHNOOR Trade Management System 🚢
+# SHNOOR Trade Management System 
 
 > **Technology Division – Apprenticeship Project**  
 > A full-stack Java + PostgreSQL application modelling Import/Export operations for SHNOOR International LLC.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This system manages the end-to-end lifecycle of international trade shipments — from product cataloguing and customer management to shipment creation, status tracking, and revenue reporting. It directly mirrors SHNOOR's core business verticals:
 
@@ -18,7 +18,7 @@ This system manages the end-to-end lifecycle of international trade shipments �
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 com.shnoor
@@ -46,7 +46,7 @@ com.shnoor
 
 ---
 
-## 🗃️ Database Schema (PostgreSQL)
+##  Database Schema (PostgreSQL)
 
 ```
 users ──────────────────────────────────────────────────────┐
@@ -70,7 +70,7 @@ Key SQL features demonstrated:
 
 ---
 
-## 🔑 Key Java Concepts Demonstrated
+##  Key Java Concepts Demonstrated
 
 | Concept | Where |
 |---|---|
@@ -86,7 +86,7 @@ Key SQL features demonstrated:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -154,7 +154,7 @@ You'll see an interactive console menu:
 
 ---
 
-## 📊 Sample Queries
+##  Sample Queries
 
 Run directly in `psql` to explore the data:
 
@@ -183,7 +183,7 @@ SELECT product_name, stock_qty, unit
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 shnoor-trade-management/
@@ -206,9 +206,7 @@ shnoor-trade-management/
 
 ---
 
-## 👤 Author
 
-Built as part of the **SHNOOR International LLC Technology Apprenticeship Program**  
 Stack: Java 17 · PostgreSQL · JDBC · Maven
 
 ---
